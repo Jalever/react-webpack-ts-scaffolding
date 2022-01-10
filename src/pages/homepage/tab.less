@@ -1,0 +1,43 @@
+.wrapper {
+  height: 22px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  -webkit-tap-highlight-color: 1;
+  & > span {
+    margin-right: 48px;
+  }
+
+  & > span:last-child {
+    margin-right: 0;
+  }
+  .tab {
+    display: flex;
+    flex-direction: column;
+    & > i {
+      font-style: normal;
+    }
+  }
+  .name {
+    line-height: 20px;
+    vertical-align: middle;
+    font-family: 'STYuanti-SC-Bold';
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: 0px;
+    color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  .bottombar {
+    position: relative;
+    top: -6px;
+    display: inline-block;
+    width: 28px;
+	height: 6px;
+	min-height: 6px;
+	background-color: transparent;
+	border-radius: 8px;
+  }
+}

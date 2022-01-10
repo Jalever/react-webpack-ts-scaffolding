@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'SourceHanSansCN-Medium';
+  src: url('https://resource.alilo.com.cn/font/medium/SourceHanSansCN-Medium.eot'),
+    url('https://resource.alilo.com.cn/font/medium/SourceHanSansCN-Medium.ttf')
+      format('truetype'),
+    url('https://resource.alilo.com.cn/font/medium/SourceHanSansCN-Medium.woff')
+      format('woff');
+}
+
+@font-face {
+  font-family: 'SourceHanSansCN-Normal';
+  src: url('https://resource.alilo.com.cn/font/normal/SourceHanSansCN-Normal.eot'),
+    url('https://resource.alilo.com.cn/font/normal/SourceHanSansCN-Normal.ttf')
+      format('truetype'),
+    url('https://resource.alilo.com.cn/font/normal/SourceHanSansCN-Normal.woff')
+      format('woff');
+}
+
+@font-face {
+  font-family: 'STYuanti-SC-Bold';
+  src: url('https://resource.alilo.com.cn/font/bold/STYuanti-SC-Bold.eot'),
+    url('https://resource.alilo.com.cn/font/bold/STYuanti-SC-Bold.ttf')
+      format('truetype'),
+    url('https://resource.alilo.com.cn/font/bold/STYuanti-SC-Bold.woff')
+      format('woff');
+}
+
+@font-face {
+  font-family: 'STYuanti-SC-Regular';
+  src: url('https://resource.alilo.com.cn/font/regular/STYuanti-SC-Regular.ttf')
+      format('truetype'),
+    url('https://resource.alilo.com.cn/font/regular/STYuanti-SC-Regular.woff')
+      format('woff');
+}
+
+@font-face {
+  font-family: 'PingFang-SC-Regular';
+  src: url('https://resource.alilo.com.cn/font/regular/PingFang SC Regular.eot'),
+    url('https://resource.alilo.com.cn/font/regular/PingFang-SC-Regular.ttf')
+      format('truetype'),
+    url('https://resource.alilo.com.cn/font/regular/PingFang SC Regular.woff')
+      format('woff');
+}
